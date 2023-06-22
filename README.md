@@ -4,4 +4,4 @@
 http://zh.d2l.ai/chapter_preface/index.html
 ## 截止2023.6.18已更新
 ***
-*线性神经网络
+* 线性神经网络
